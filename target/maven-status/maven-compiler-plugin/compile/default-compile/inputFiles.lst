@@ -1,11 +1,13 @@
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Dto\dtoEducacion.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Entity\Educacion.java
+D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Controller\CProyectos.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Dto\dtoHys.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\MaaApplication.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Controller\PersonaController.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Security\Controller\Mensaje.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Dto\dtoPersona.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Entity\Persona.java
+D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Service\SProyectos.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Security\Controller\AuthController.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Security\Entity\UsuarioPrincipal.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Security\Service\RolService.java
@@ -26,7 +28,10 @@ D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Securi
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Controller\CEducacion.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Repository\RExperiencia.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Controller\CExperiencia.java
+D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Repository\IProyectos.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Security\jwt\JwtEntryPoint.java
+D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Dto\dtoProyectos.java
+D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Entity\Proyectos.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Security\MainSecurity.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Security\Dto\JwtDTO.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Service\SHys.java

@@ -4,9 +4,12 @@ com\portfolio\maa\Security\jwt\JwtTokenFilter.class
 com\portfolio\maa\Dto\dtoExperiencia.class
 com\portfolio\maa\Repository\Rhys.class
 com\portfolio\maa\Security\jwt\JwtProvider.class
+com\portfolio\maa\Dto\dtoProyectos.class
 com\portfolio\maa\Service\SEducacion.class
 com\portfolio\maa\Security\Service\RolService.class
 com\portfolio\maa\Dto\dtoEducacion.class
+com\portfolio\maa\Service\SProyectos.class
+com\portfolio\maa\Entity\Proyectos.class
 com\portfolio\maa\Service\SExperiencia.class
 com\portfolio\maa\Security\Enums\RolNombre.class
 com\portfolio\maa\Security\Repository\IUsuarioRepository.class
@@ -24,7 +27,9 @@ com\portfolio\maa\Repository\RExperiencia.class
 com\portfolio\maa\Security\Service\UserDetailsImplement.class
 com\portfolio\maa\Dto\dtoPersona.class
 com\portfolio\maa\Service\ImpPersonaService.class
+com\portfolio\maa\Repository\IProyectos.class
 com\portfolio\maa\Repository\REducacion.class
+com\portfolio\maa\Controller\CProyectos.class
 com\portfolio\maa\Entity\Experiencia.class
 com\portfolio\maa\Security\Service\UsuarioService.class
 com\portfolio\maa\Controller\PersonaController.class
