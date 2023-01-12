@@ -1,5 +1,8 @@
-FROM openjdk:16
-MAINTAINER acs
-COPY /target/maa-0.0.1-SNAPSHOT.jar app.jar
-EXPOSE 8080
-ENTRYPOINT ["java","-jar","cay.jar"]
+
+FROM amazoncorretto:18-alpine-jdk
+
+MAINTAINER maa
+
+COPY target/maa-0.0.1-SNAPSHOT.jar maa-0.0.1-SNAPSHOT.jar
+
+ENTRYPOINT ["java","-jar","/maa-0.0.1-SNAPSHOT.jar"]
