@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.portfolio.maa.MaaApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.198 s - in com.portfolio.maa.MaaApplicationTests
