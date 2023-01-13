@@ -40,7 +40,7 @@ public class dtoProyectos {
         return descripcionP;
     }
 
-    public void setDescripcionE(String descripcionP) {
+    public void setDescripcionP(String descripcionP) {
         this.descripcionP = descripcionP;
     }
     
