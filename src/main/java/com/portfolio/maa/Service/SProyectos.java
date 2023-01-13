@@ -6,7 +6,7 @@ package com.portfolio.maa.Service;
  * @author magus
  */
 import com.portfolio.maa.Entity.Proyectos;
-import com.portfolio.maa.Repository.IProyectos;
+import com.portfolio.maa.Repository.RProyectos;
 import java.util.List;
 import java.util.Optional;
 import javax.transaction.Transactional;
@@ -17,33 +17,33 @@ import org.springframework.stereotype.Service;
 @Transactional
 public class SProyectos {
      @Autowired
-     IProyectos iProyectos;
+     RProyectos rProyectos;
      
      public List<Proyectos> list(){
-         return iProyectos.findAll();
+         return rProyectos.findAll();
      }
      
      public Optional<Proyectos> getOne(int id){
-         return iProyectos.findById(id);
+         return rProyectos.findById(id);
      }
      
      public Optional<Proyectos> getByNombreP(String nombreP){
-         return iProyectos.findByNombreP(nombreP);
+         return rProyectos.findByNombreP(nombreP);
      }
      
      public void save(Proyectos proy){
-         iProyectos.save(proy);
+         rProyectos.save(proy);
      }
      
      public void delete(int id){
-         iProyectos.deleteById(id);
+         rProyectos.deleteById(id);
      }
      
      public boolean existsById(int id){
-         return iProyectos.existsById(id);
+         return rProyectos.existsById(id);
      }
      
      public boolean existsByNombreP(String nombreP){
-         return iProyectos.existsByNombreP(nombreP);
+         return rProyectos.existsByNombreP(nombreP);
      }
 }

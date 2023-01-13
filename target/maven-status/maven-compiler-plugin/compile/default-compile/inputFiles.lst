@@ -14,6 +14,7 @@ D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Securi
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Security\jwt\JwtTokenFilter.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Security\Service\UsuarioService.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Repository\REducacion.java
+D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Repository\RProyectos.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Security\Entity\Rol.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Security\Service\UserDetailsImplement.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Entity\hys.java
@@ -28,7 +29,6 @@ D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Securi
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Controller\CEducacion.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Repository\RExperiencia.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Controller\CExperiencia.java
-D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Repository\IProyectos.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Security\jwt\JwtEntryPoint.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Dto\dtoProyectos.java
 D:\ArgentinaPrograma\ProyectoFinalBackend\src\main\java\com\portfolio\maa\Entity\Proyectos.java

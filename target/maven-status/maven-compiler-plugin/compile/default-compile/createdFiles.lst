@@ -11,6 +11,7 @@ com\portfolio\maa\Dto\dtoEducacion.class
 com\portfolio\maa\Service\SProyectos.class
 com\portfolio\maa\Entity\Proyectos.class
 com\portfolio\maa\Service\SExperiencia.class
+com\portfolio\maa\Repository\RProyectos.class
 com\portfolio\maa\Security\Enums\RolNombre.class
 com\portfolio\maa\Security\Repository\IUsuarioRepository.class
 com\portfolio\maa\Entity\hys.class
@@ -27,7 +28,6 @@ com\portfolio\maa\Repository\RExperiencia.class
 com\portfolio\maa\Security\Service\UserDetailsImplement.class
 com\portfolio\maa\Dto\dtoPersona.class
 com\portfolio\maa\Service\ImpPersonaService.class
-com\portfolio\maa\Repository\IProyectos.class
 com\portfolio\maa\Repository\REducacion.class
 com\portfolio\maa\Controller\CProyectos.class
 com\portfolio\maa\Entity\Experiencia.class
