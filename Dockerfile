@@ -1,4 +1,4 @@
-FROM amazoncorretto:18-alpine-jdk
+FROM FROM openjdk:19-ea-jdk-slim
 
 MAINTAINER maa
 
