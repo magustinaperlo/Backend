@@ -1,4 +1,4 @@
-FROM FROM openjdk:19-ea-jdk-slim
+FROM openjdk:19-ea-jdk-slim
 
 MAINTAINER maa
 
